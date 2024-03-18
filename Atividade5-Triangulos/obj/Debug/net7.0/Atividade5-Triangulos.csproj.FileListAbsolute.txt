@@ -1,0 +1,14 @@
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/bin/Debug/net7.0/Atividade5-Triangulos
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/bin/Debug/net7.0/Atividade5-Triangulos.deps.json
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/bin/Debug/net7.0/Atividade5-Triangulos.runtimeconfig.json
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/bin/Debug/net7.0/Atividade5-Triangulos.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/bin/Debug/net7.0/Atividade5-Triangulos.pdb
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/obj/Debug/net7.0/Atividade5-Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/obj/Debug/net7.0/Atividade5-Triangulos.AssemblyInfoInputs.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/obj/Debug/net7.0/Atividade5-Triangulos.AssemblyInfo.cs
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/obj/Debug/net7.0/Atividade5-Triangulos.csproj.CoreCompileInputs.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/obj/Debug/net7.0/Atividade5-Triangulos.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/obj/Debug/net7.0/refint/Atividade5-Triangulos.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/obj/Debug/net7.0/Atividade5-Triangulos.pdb
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/obj/Debug/net7.0/Atividade5-Triangulos.genruntimeconfig.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade5-Triangulos/obj/Debug/net7.0/ref/Atividade5-Triangulos.dll
