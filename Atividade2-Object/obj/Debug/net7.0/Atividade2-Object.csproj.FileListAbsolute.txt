@@ -1,0 +1,14 @@
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/obj/Debug/net7.0/Atividade2-Object.GeneratedMSBuildEditorConfig.editorconfig
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/obj/Debug/net7.0/Atividade2-Object.AssemblyInfoInputs.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/obj/Debug/net7.0/Atividade2-Object.AssemblyInfo.cs
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/obj/Debug/net7.0/Atividade2-Object.csproj.CoreCompileInputs.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/bin/Debug/net7.0/Atividade2-Object
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/bin/Debug/net7.0/Atividade2-Object.deps.json
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/bin/Debug/net7.0/Atividade2-Object.runtimeconfig.json
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/bin/Debug/net7.0/Atividade2-Object.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/bin/Debug/net7.0/Atividade2-Object.pdb
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/obj/Debug/net7.0/Atividade2-Object.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/obj/Debug/net7.0/refint/Atividade2-Object.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/obj/Debug/net7.0/Atividade2-Object.pdb
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/obj/Debug/net7.0/Atividade2-Object.genruntimeconfig.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade2-Object/obj/Debug/net7.0/ref/Atividade2-Object.dll
