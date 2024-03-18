@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade2-Object", "Ativid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade3-Enum", "Atividade3-Enum\Atividade3-Enum.csproj", "{D1DA9A4E-F155-42EF-B3AA-4B1C39D9E58C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade4-IServico", "Atividade4-IServico\Atividade4-IServico.csproj", "{F2B60201-0D51-44DD-A4F9-97FE9E39F2E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{D1DA9A4E-F155-42EF-B3AA-4B1C39D9E58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1DA9A4E-F155-42EF-B3AA-4B1C39D9E58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1DA9A4E-F155-42EF-B3AA-4B1C39D9E58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B60201-0D51-44DD-A4F9-97FE9E39F2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B60201-0D51-44DD-A4F9-97FE9E39F2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B60201-0D51-44DD-A4F9-97FE9E39F2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B60201-0D51-44DD-A4F9-97FE9E39F2E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

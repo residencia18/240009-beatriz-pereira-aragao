@@ -1,0 +1,14 @@
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/bin/Debug/net7.0/Atividade4-IServico
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/bin/Debug/net7.0/Atividade4-IServico.deps.json
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/bin/Debug/net7.0/Atividade4-IServico.runtimeconfig.json
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/bin/Debug/net7.0/Atividade4-IServico.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/bin/Debug/net7.0/Atividade4-IServico.pdb
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/obj/Debug/net7.0/Atividade4-IServico.GeneratedMSBuildEditorConfig.editorconfig
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/obj/Debug/net7.0/Atividade4-IServico.AssemblyInfoInputs.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/obj/Debug/net7.0/Atividade4-IServico.AssemblyInfo.cs
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/obj/Debug/net7.0/Atividade4-IServico.csproj.CoreCompileInputs.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/obj/Debug/net7.0/Atividade4-IServico.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/obj/Debug/net7.0/refint/Atividade4-IServico.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/obj/Debug/net7.0/Atividade4-IServico.pdb
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/obj/Debug/net7.0/Atividade4-IServico.genruntimeconfig.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade4-IServico/obj/Debug/net7.0/ref/Atividade4-IServico.dll
