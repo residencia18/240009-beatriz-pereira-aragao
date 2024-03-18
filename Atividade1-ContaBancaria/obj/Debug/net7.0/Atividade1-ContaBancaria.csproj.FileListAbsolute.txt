@@ -1,0 +1,14 @@
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/bin/Debug/net7.0/Atividade1-ContaBancaria
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/bin/Debug/net7.0/Atividade1-ContaBancaria.deps.json
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/bin/Debug/net7.0/Atividade1-ContaBancaria.runtimeconfig.json
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/bin/Debug/net7.0/Atividade1-ContaBancaria.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/bin/Debug/net7.0/Atividade1-ContaBancaria.pdb
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/obj/Debug/net7.0/Atividade1-ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/obj/Debug/net7.0/Atividade1-ContaBancaria.AssemblyInfoInputs.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/obj/Debug/net7.0/Atividade1-ContaBancaria.AssemblyInfo.cs
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/obj/Debug/net7.0/Atividade1-ContaBancaria.csproj.CoreCompileInputs.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/obj/Debug/net7.0/Atividade1-ContaBancaria.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/obj/Debug/net7.0/refint/Atividade1-ContaBancaria.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/obj/Debug/net7.0/Atividade1-ContaBancaria.pdb
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/obj/Debug/net7.0/Atividade1-ContaBancaria.genruntimeconfig.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/Atividade1-ContaBancaria/obj/Debug/net7.0/ref/Atividade1-ContaBancaria.dll
