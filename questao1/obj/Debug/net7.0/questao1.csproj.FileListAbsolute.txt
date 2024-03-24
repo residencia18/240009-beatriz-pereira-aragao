@@ -1,0 +1,14 @@
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/bin/Debug/net7.0/questao1
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/bin/Debug/net7.0/questao1.deps.json
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/bin/Debug/net7.0/questao1.runtimeconfig.json
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/bin/Debug/net7.0/questao1.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/bin/Debug/net7.0/questao1.pdb
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/obj/Debug/net7.0/questao1.GeneratedMSBuildEditorConfig.editorconfig
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/obj/Debug/net7.0/questao1.AssemblyInfoInputs.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/obj/Debug/net7.0/questao1.AssemblyInfo.cs
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/obj/Debug/net7.0/questao1.csproj.CoreCompileInputs.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/obj/Debug/net7.0/questao1.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/obj/Debug/net7.0/refint/questao1.dll
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/obj/Debug/net7.0/questao1.pdb
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/obj/Debug/net7.0/questao1.genruntimeconfig.cache
+/home/bia/projetos/240009-beatriz-pereira-aragao/questao1/obj/Debug/net7.0/ref/questao1.dll
