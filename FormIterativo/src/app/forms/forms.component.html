@@ -1,0 +1,8 @@
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+  <h1>Formulario</h1>
+  <div *ngFor="let key of keysAPi" class="campos">
+    <label for="">{{ key }}</label>
+    <input type="text" name="" id="" />
+  </div>
+  <button type="submit">Enviar</button>
+</form>

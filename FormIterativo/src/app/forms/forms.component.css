@@ -1,0 +1,50 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 0 auto;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+form .campos {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+form .campos input {
+  margin: 10px 0;
+  padding: 30px 10px 10px 10px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  width: 100%;
+  background: transparent;
+}
+
+form .campos label {
+  transform: translate(5px, 35px);
+  font-size: 0.8rem;
+  color: #000;
+  /* z-index: -10; */
+  font-weight: 650;
+}
+form button {
+  margin: 10px 0;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+}
+
+form .campos input:focus {
+  outline: none;
+  border: 1px solid #d5d1d1;
+}
+form .campos:focus-within label {
+    color: #d5d1d1;
+  }
