@@ -1,0 +1,24 @@
+<div *ngIf="suinos.length > 0; else noData">
+    <h2>Lista de Suínos</h2>
+    <ul>
+        <li *ngFor="let suino of suinos">
+            <p>Data de Nascimento: {{suino.dateOfBirth}}</p>
+            <p>Data de Partida: {{suino.dateOfDeparture}}</p>
+            <p>Tag da Orelha do Pai: {{suino.fatherEarTag}}</p>
+            <p>Gênero: {{suino.gender}}</p>
+            <p>Tag da Orelha da Mãe: {{suino.motherEarTag}}</p>
+            <p>Status: {{suino.status}}</p>
+            <p>Pesos: </p>
+            <ul>
+                <li *ngFor="let weight of suino.weights">
+                    <p>Peso: {{weight.weight}}</p>
+                    <p>Data: {{weight.date}}</p>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<ng-template #noData>
+    <p>Nenhum suíno encontrado.</p>
+</ng-template>
